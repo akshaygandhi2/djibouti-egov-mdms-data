@@ -4913,7 +4913,7 @@
          "displayName": "Receipts Workflow",
          "orderNumber": 1,
          "parentModule": "",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "COLLECTION",
          "code": "null"
       },
@@ -4982,7 +4982,7 @@
          "parentModule": "",
          "displayName": "Workflow transition",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "egov-workflow-v2",
          "code": "null",
          "path": ""
@@ -4994,7 +4994,7 @@
          "parentModule": "",
          "displayName": "Workflow search",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "egov-workflow-v2",
          "code": "null",
          "path": ""
@@ -7988,7 +7988,7 @@
          "url": "/egov-searcher/locality/BPAREG/_get",
          "displayName": "BPA locality searcher",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "egov-searcher",
          "code": "null",
          "path": ""
@@ -8116,7 +8116,7 @@
          "url": "/egov-pdf/download/PAYMENT/consolidatedreceipt",
          "displayName": "consolidatedreceipt search",
          "orderNumber": 1,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "egov-pdf",
          "code": "null",
          "path": ""
@@ -8127,7 +8127,7 @@
          "url": "/egov-pdf/download/BILL/consolidatedbill",
          "displayName": "consolidatedbill search",
          "orderNumber": 2,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "egov-pdf",
          "code": "null",
          "path": ""
@@ -8215,7 +8215,7 @@
          "url": "/land-services/v1/land/_create",
          "displayName": "Land Create",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "BPA",
          "code": "null",
          "path": ""
@@ -8226,7 +8226,7 @@
          "url": "/land-services/v1/land/_update",
          "displayName": "Land Update",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "BPA",
          "code": "null",
          "path": ""
@@ -8237,7 +8237,7 @@
          "url": "/land-services/v1/land/_search",
          "displayName": "Land Search",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "BPA",
          "code": "null",
          "path": ""
@@ -8260,7 +8260,7 @@
          "url": "/noc-services/v1/noc/_create",
          "displayName": "Create",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "NOC",
          "code": "null",
          "path": ""
@@ -8271,7 +8271,7 @@
          "url": "/noc-services/v1/noc/_search",
          "displayName": "Search",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "NOC",
          "code": "null",
          "path": ""
@@ -8282,7 +8282,7 @@
          "url": "/noc-services/v1/noc/_update",
          "displayName": "Update",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "NOC",
          "code": "null",
          "path": ""
@@ -8314,7 +8314,7 @@
          "url": "/egov-searcher/locality/noc-services/_get",
          "displayName": "Noc locality searcher",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "egov-searcher",
          "code": "null",
          "path": ""
